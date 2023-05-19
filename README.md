@@ -8,10 +8,10 @@
  * Print head temperature: 26°C
  * Print bed temperature: 20°C
  * Print speed: 10mm/sec
- * Crosslinking frequency: After every layer
- * Crosslinking time: 10sec
- * Crosslining wavelength: 405nm
- * Distance to center of build (Crosslinking): 4cm
+ * Cross linking frequency: After every layer
+ * Cross linking time: 10sec
+ * Cross linking wavelength: 405nm
+ * Distance to center of build (Cross linking): 4cm
 
 Once the prints were completed, they were washed with PBS 3 times and Life/Death Assay stain was added to the samples. The samples were left to sit for 15 minutes and then were observed under a confocal microscope. Two of the wells were observed under  the microscope. The 3D z-scan of the two wells can be seen below (within an hour of printing). 
  
