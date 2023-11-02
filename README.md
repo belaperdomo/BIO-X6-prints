@@ -1,7 +1,7 @@
 # BIO-X6-prints
  STL files and images of prints completed by the CELLINK BIO X6 using various materials
  
- ## Most Recent Prints
+ ## Recent Prints
  ### 05/18/2023
  This print was a cube that was 8 layers tall and 15x15mm with a 10% infill. The printing material consisted of GelMa and Fibroblast cultured cells. A 1:5 cell to GelMa ratio was used and was achieved using the CELLINK cell mixer. This means for the 2mL of GelMa that was loaded, 0.4mL of cell/media mix was used. This scaffold was printed 3 times in a 6-well plate. Printing parameters include:
  * Print head pressure: (yes)
