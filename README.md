@@ -2,6 +2,7 @@
  STL files and images of prints completed by the CELLINK BIO X6 using various materials
  
  ## Recent Prints
+ ### 11/00/2023
  ### 05/18/2023
  This print was a cube that was 8 layers tall and 15x15mm with a 10% infill. The printing material consisted of GelMa and Fibroblast cultured cells. A 1:5 cell to GelMa ratio was used and was achieved using the CELLINK cell mixer. This means for the 2mL of GelMa that was loaded, 0.4mL of cell/media mix was used. This scaffold was printed 3 times in a 6-well plate. Printing parameters include:
  * Print head pressure: (yes)
@@ -13,7 +14,7 @@
  * Cross linking wavelength: 405nm
  * Distance to center of build (Cross linking): 4cm
 
-Once the prints were completed, they were washed with PBS 3 times and Life/Death Assay stain was added to the samples. The samples were left to sit for 15 minutes and then were observed under a confocal microscope. Two of the wells were observed under  the microscope. The 3D z-scan of the two wells can be seen below (within an hour of printing). 
+Once the prints were completed, they were washed with PBS 3 times and Life/Death Assay stain (Invitrogen) was added to the samples. The samples were left to sit for 15 minutes and then were observed under a confocal microscope. Two of the wells were observed under  the microscope. The 3D z-scan of the two wells can be seen below (within an hour of printing). 
  
 ![Well 1_3D_Sample _5_18_23](https://github.com/belaperdomo/BIO-X6-prints/assets/101987425/fb4d7e0d-6695-4131-ac5f-3030bb0fcf35)
 >3D z-scan for well 1
